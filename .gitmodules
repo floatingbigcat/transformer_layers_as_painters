@@ -1,3 +1,4 @@
 [submodule "gpt/lm-eval"]
 	path = gpt/lm-eval
 	url = https://github.com/EleutherAI/lm-evaluation-harness.git
+	branch = 262f879
