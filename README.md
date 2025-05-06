@@ -1,4 +1,4 @@
-# Transformer Layers as Painters
+# Transformer Layers as Painters 🧑‍🎨
 <p align="center">
   📚 <a href="https://arxiv.org/abs/2407.09298">[Paper]</a>
 </p>
