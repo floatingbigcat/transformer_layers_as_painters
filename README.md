@@ -2,6 +2,7 @@
 <p align="center">
   📚 <a href="https://arxiv.org/abs/2407.09298">[Paper]</a>
 </p>
+
 ## Requirements
 1. Please run following commands to set up basic python environment
 ```
